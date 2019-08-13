@@ -22,6 +22,7 @@ public static void main(String[] args) {
 public List<Integer> listWithDuplicates(List<Integer> number){
 	List <Integer> L1 = null;
 	//write your code here !! change the L1 to required value
+	L1 = number;
 	return L1 ;
 }
 }
